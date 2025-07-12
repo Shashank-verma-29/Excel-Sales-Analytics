@@ -1,7 +1,11 @@
 # Excel-Sales-Analytics
 
 📊 Excel-Sales-Analytics
-AtliQ Technologies: AI Consultancy & Business Solutions from OpenSourse
+AtliQ Technologies: AI Consultancy & Business Solutions 
+
+📂 Dataset Source:
+This dataset was kindly shared by Daideepya Awadhiya via LinkedIn. Special thanks for making such valuable resources accessible for learning and project work.
+
 
 🔹 Project Overview
 This project focuses on creating dynamic and insightful Sales and Finance reports to help businesses:
